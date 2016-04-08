@@ -2,116 +2,116 @@
 <items version="2" >
 
     <item
-        jar="/Users/remypham/Documents/AndroidStudioProjects/Solid/uIAppTemplate/libs/universal-image-loader-1.9.3.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
-        <dex dex="/Users/remypham/Documents/AndroidStudioProjects/Solid/uIAppTemplate/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.3-f0cf5435e25418d4039f00ca3db85b44d55a415a.jar" />
-    </item>
-    <item
-        jar="/Users/remypham/Documents/Development/adt-bundle-mac/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
-        <dex dex="/Users/remypham/Documents/AndroidStudioProjects/Solid/uIAppTemplate/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-71294812aed0728ef56264049f11a07571c74d9d.jar" />
-    </item>
-    <item
-        jar="/Users/remypham/Documents/AndroidStudioProjects/Solid/uIAppTemplate/libs/listviewanimations_lib-core-slh_3.1.0.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="a4fe703aabd23e8c287c90396514418119109dd1">
-        <dex dex="/Users/remypham/Documents/AndroidStudioProjects/Solid/uIAppTemplate/build/intermediates/pre-dexed/debug/listviewanimations_lib-core-slh_3.1.0-824b5fd6da8e64a6577406d501b2c220973e2810.jar" />
-    </item>
-    <item
-        jar="/Users/remypham/Documents/AndroidStudioProjects/Solid/uIAppTemplate/build/intermediates/exploded-aar/Solid/stickyListHeaders/unspecified/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="86e058079406f55c163048e25683d160b11d1907">
-        <dex dex="/Users/remypham/Documents/AndroidStudioProjects/Solid/uIAppTemplate/build/intermediates/pre-dexed/debug/classes-9c2ef61988c95f19e3a353103593ea6bdcb2f861.jar" />
-    </item>
-    <item
-        jar="/Users/remypham/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-jvm/2.2.3/e787a02a644f2681e4af82cdc88dd2f69877692b/firebase-client-jvm-2.2.3.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="e787a02a644f2681e4af82cdc88dd2f69877692b">
-        <dex dex="/Users/remypham/Documents/AndroidStudioProjects/Solid/uIAppTemplate/build/intermediates/pre-dexed/debug/firebase-client-jvm-2.2.3-32170501c97cf2c7f52f5129fb2c42c0d5d6da35.jar" />
-    </item>
-    <item
-        jar="/Users/remypham/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.2/285cb9c666f0f0f3dd8a1be04e1f457eb7b15113/jackson-annotations-2.2.2.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
-        <dex dex="/Users/remypham/Documents/AndroidStudioProjects/Solid/uIAppTemplate/build/intermediates/pre-dexed/debug/jackson-annotations-2.2.2-b85782c4afb5979814fea991d231a723761815ef.jar" />
-    </item>
-    <item
-        jar="/Users/remypham/.gradle/caches/modules-2/files-2.1/com.firebase/tubesock/0.0.11/d37cb67277928cf59344b4196af8d9cee1f1a27c/tubesock-0.0.11.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="d37cb67277928cf59344b4196af8d9cee1f1a27c">
-        <dex dex="/Users/remypham/Documents/AndroidStudioProjects/Solid/uIAppTemplate/build/intermediates/pre-dexed/debug/tubesock-0.0.11-7806e4fda78006b30927bfa3552b5bea85d63bba.jar" />
-    </item>
-    <item
-        jar="/Users/remypham/Documents/AndroidStudioProjects/Solid/uIAppTemplate/libs/nineoldandroids-2.4.0.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
-        <dex dex="/Users/remypham/Documents/AndroidStudioProjects/Solid/uIAppTemplate/build/intermediates/pre-dexed/debug/nineoldandroids-2.4.0-d8a09dc572ecad6bfff1950f7a3f5af3a5ba0527.jar" />
-    </item>
-    <item
-        jar="/Users/remypham/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.2/d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b/jackson-core-2.2.2.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
-        <dex dex="/Users/remypham/Documents/AndroidStudioProjects/Solid/uIAppTemplate/build/intermediates/pre-dexed/debug/jackson-core-2.2.2-370c12e7224b8dc8e9489593329279203dab24a4.jar" />
-    </item>
-    <item
-        jar="/Users/remypham/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-android/2.2.3/682d0a8dce58e47bde57316aac7d6bb5618dee6b/firebase-client-android-2.2.3.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="682d0a8dce58e47bde57316aac7d6bb5618dee6b">
-        <dex dex="/Users/remypham/Documents/AndroidStudioProjects/Solid/uIAppTemplate/build/intermediates/pre-dexed/debug/firebase-client-android-2.2.3-6ecf58e51acb527392adbb041348b15a7cf3e0a6.jar" />
-    </item>
-    <item
-        jar="/Users/remypham/Documents/AndroidStudioProjects/Solid/uIAppTemplate/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jar="/Users/Eitan/Desktop/solid/uIAppTemplate/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
-        <dex dex="/Users/remypham/Documents/AndroidStudioProjects/Solid/uIAppTemplate/build/intermediates/pre-dexed/debug/classes-c0b03d211c44d0202f8b75035e901d390c4acae8.jar" />
+        <dex dex="/Users/Eitan/Desktop/solid/uIAppTemplate/build/intermediates/pre-dexed/debug/classes-8c54dbfad8df75c4bbc9ebe23aaab9ef4c8cde99.jar" />
     </item>
     <item
-        jar="/Users/remypham/Documents/AndroidStudioProjects/Solid/uIAppTemplate/libs/listviewanimations_lib-core_3.1.0.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="f3f9629b068554d8513a2aaf34418171bf430851">
-        <dex dex="/Users/remypham/Documents/AndroidStudioProjects/Solid/uIAppTemplate/build/intermediates/pre-dexed/debug/listviewanimations_lib-core_3.1.0-bd0006437620bff825324c00f45d8037e3bda820.jar" />
-    </item>
-    <item
-        jar="/Users/remypham/Documents/AndroidStudioProjects/Solid/uIAppTemplate/libs/listviewanimations_lib-manipulation_3.1.0.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="63737e512fcd9e0ebe9bcd0bb375c2dded74116f">
-        <dex dex="/Users/remypham/Documents/AndroidStudioProjects/Solid/uIAppTemplate/build/intermediates/pre-dexed/debug/listviewanimations_lib-manipulation_3.1.0-07b5dd766c924d1cf4fab98792d5c68842ed21b6.jar" />
-    </item>
-    <item
-        jar="/Users/remypham/Documents/AndroidStudioProjects/Solid/uIAppTemplate/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
-        <dex dex="/Users/remypham/Documents/AndroidStudioProjects/Solid/uIAppTemplate/build/intermediates/pre-dexed/debug/classes-f24ee614cff2b495385498260a6e6e2ac88e222d.jar" />
-    </item>
-    <item
-        jar="/Users/remypham/Documents/AndroidStudioProjects/Solid/uIAppTemplate/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
-        <dex dex="/Users/remypham/Documents/AndroidStudioProjects/Solid/uIAppTemplate/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-84a8052d6bf70fc288853ef3674e93329907cc3d.jar" />
-    </item>
-    <item
-        jar="/Users/remypham/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.2/3c8f6018eaa72d43b261181e801e6f8676c16ef6/jackson-databind-2.2.2.jar"
+        jar="/Users/Eitan/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.2/3c8f6018eaa72d43b261181e801e6f8676c16ef6/jackson-databind-2.2.2.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
-        <dex dex="/Users/remypham/Documents/AndroidStudioProjects/Solid/uIAppTemplate/build/intermediates/pre-dexed/debug/jackson-databind-2.2.2-f27c773e974f9cd08a01c0654ad50964826acf6f.jar" />
+        <dex dex="/Users/Eitan/Desktop/solid/uIAppTemplate/build/intermediates/pre-dexed/debug/jackson-databind-2.2.2-13c14ee04167ef8d5941a822e3346cc25cf99792.jar" />
+    </item>
+    <item
+        jar="/Users/Eitan/Desktop/solid/uIAppTemplate/libs/listviewanimations_lib-core-slh_3.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a4fe703aabd23e8c287c90396514418119109dd1">
+        <dex dex="/Users/Eitan/Desktop/solid/uIAppTemplate/build/intermediates/pre-dexed/debug/listviewanimations_lib-core-slh_3.1.0-d9a6428a3afb7fdd3d3d089242312bc724265ef7.jar" />
+    </item>
+    <item
+        jar="/Users/Eitan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/Eitan/Desktop/solid/uIAppTemplate/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-c675c5c628c00edcdb2fb3bd4876cb19ab92501d.jar" />
+    </item>
+    <item
+        jar="/Users/Eitan/Desktop/solid/uIAppTemplate/libs/listviewanimations_lib-core_3.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f3f9629b068554d8513a2aaf34418171bf430851">
+        <dex dex="/Users/Eitan/Desktop/solid/uIAppTemplate/build/intermediates/pre-dexed/debug/listviewanimations_lib-core_3.1.0-cc8ae7ea40bdd8f2c869a66015214df84c78f784.jar" />
+    </item>
+    <item
+        jar="/Users/Eitan/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.2/d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b/jackson-core-2.2.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="/Users/Eitan/Desktop/solid/uIAppTemplate/build/intermediates/pre-dexed/debug/jackson-core-2.2.2-12766e3372a05d8a0209690f6170a98163f40889.jar" />
+    </item>
+    <item
+        jar="/Users/Eitan/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.2/285cb9c666f0f0f3dd8a1be04e1f457eb7b15113/jackson-annotations-2.2.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="/Users/Eitan/Desktop/solid/uIAppTemplate/build/intermediates/pre-dexed/debug/jackson-annotations-2.2.2-10d56574efcfa6ff6afcc3bd99c27b165872c6c6.jar" />
+    </item>
+    <item
+        jar="/Users/Eitan/Desktop/solid/uIAppTemplate/libs/universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="/Users/Eitan/Desktop/solid/uIAppTemplate/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.3-b6519b28ed704520b3bd49643abc549a30dc81ef.jar" />
+    </item>
+    <item
+        jar="/Users/Eitan/.gradle/caches/modules-2/files-2.1/com.firebase/tubesock/0.0.11/d37cb67277928cf59344b4196af8d9cee1f1a27c/tubesock-0.0.11.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d37cb67277928cf59344b4196af8d9cee1f1a27c">
+        <dex dex="/Users/Eitan/Desktop/solid/uIAppTemplate/build/intermediates/pre-dexed/debug/tubesock-0.0.11-89b4bbd37ec436b2cdea2bc1af47f925325d2bc3.jar" />
+    </item>
+    <item
+        jar="/Users/Eitan/Desktop/solid/uIAppTemplate/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/Eitan/Desktop/solid/uIAppTemplate/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-ebe4b5bf29e29113fa0fd6c1fe5ee19bedd61754.jar" />
+    </item>
+    <item
+        jar="/Users/Eitan/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-android/2.2.3/682d0a8dce58e47bde57316aac7d6bb5618dee6b/firebase-client-android-2.2.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="682d0a8dce58e47bde57316aac7d6bb5618dee6b">
+        <dex dex="/Users/Eitan/Desktop/solid/uIAppTemplate/build/intermediates/pre-dexed/debug/firebase-client-android-2.2.3-cab6022a61c30ca696a42970db84beaf1cd0648f.jar" />
+    </item>
+    <item
+        jar="/Users/Eitan/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-jvm/2.2.3/e787a02a644f2681e4af82cdc88dd2f69877692b/firebase-client-jvm-2.2.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e787a02a644f2681e4af82cdc88dd2f69877692b">
+        <dex dex="/Users/Eitan/Desktop/solid/uIAppTemplate/build/intermediates/pre-dexed/debug/firebase-client-jvm-2.2.3-99dba089f901cb66a213acad2f4cf33feb370dd7.jar" />
+    </item>
+    <item
+        jar="/Users/Eitan/Desktop/solid/uIAppTemplate/libs/nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="/Users/Eitan/Desktop/solid/uIAppTemplate/build/intermediates/pre-dexed/debug/nineoldandroids-2.4.0-80e451733f60238427747dabe36afdcdb706cb7c.jar" />
+    </item>
+    <item
+        jar="/Users/Eitan/Desktop/solid/uIAppTemplate/build/intermediates/exploded-aar/Solid/stickyListHeaders/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6e22d2e0c92c0760b39f3b9e0bb1ec0f9efb3e81">
+        <dex dex="/Users/Eitan/Desktop/solid/uIAppTemplate/build/intermediates/pre-dexed/debug/classes-d8419707f0351d352c058b63d9ccbb5d463c4abf.jar" />
+    </item>
+    <item
+        jar="/Users/Eitan/Desktop/solid/uIAppTemplate/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/Eitan/Desktop/solid/uIAppTemplate/build/intermediates/pre-dexed/debug/classes-2611e052e2c7ac2dc079279b7a43de5067e25b2f.jar" />
+    </item>
+    <item
+        jar="/Users/Eitan/Desktop/solid/uIAppTemplate/libs/listviewanimations_lib-manipulation_3.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="63737e512fcd9e0ebe9bcd0bb375c2dded74116f">
+        <dex dex="/Users/Eitan/Desktop/solid/uIAppTemplate/build/intermediates/pre-dexed/debug/listviewanimations_lib-manipulation_3.1.0-16580040d5657e0533bf686dceb142596888035e.jar" />
     </item>
 
 </items>
